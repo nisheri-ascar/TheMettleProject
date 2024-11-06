@@ -1,4 +1,4 @@
-# TheMettleProject
+# The Mettle Project
 
 ---
 
